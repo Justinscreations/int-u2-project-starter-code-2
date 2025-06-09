@@ -55,7 +55,7 @@ h2 {
     width: 150px
 }
 
-p{
+.box-text{
     background-color: white;
 }
 
@@ -63,3 +63,10 @@ p{
     background-color: white;
 }
 
+a {
+    margin-left: 45%;
+}
+
+p{
+    text-align: center
+}
